@@ -1,1 +1,32 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+    font-size: 16px;
+    margin: 40px 60px 40px 60px;
+    font-family: sans-serif;
+}
+ 
+p {
+    text-indent: 2em;
+}
+ 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+ 
+#main-photo{
+    border-radius: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+.container-fluid{
+    background: #eeecec;
+    border-radius: 20px;
+}
+ 
+#end{
+    font-size: 1.5em;
+}
